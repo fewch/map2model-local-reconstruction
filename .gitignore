@@ -1,0 +1,21 @@
+.DS_Store
+Thumbs.db
+
+# Local reference captures and debug artifacts
+captured_page_reference.html
+*.log
+*.tmp
+screenshots/
+downloads/
+
+# Generated/exported models
+*.stl
+*.3mf
+*.obj
+*.glb
+*.gltf
+
+# Dependency folders should not be needed for this static archive
+node_modules/
+__pycache__/
+
